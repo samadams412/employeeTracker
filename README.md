@@ -22,7 +22,7 @@
   ![Generated Output from seeds.sql](/Assets/test-img1.png)
 
     * Generated Outfrom from selecting prompt View All Employees
-  ![image](Assets/test-img2.png)
+  ![image](https://github.com/samadams412/employeeTracker/blob/main/Assets/test-img1.PNG?raw=true)
     * Generated Outfrom from selecting prompt View All Employees by Department and Role
   ![Generated Outfrom from selecting prompt View All Employees by Department and Role](Assets/test-img3.png)
     * Generated Outfrom from selecting prompt Add Employee and then Viewing All Employees
