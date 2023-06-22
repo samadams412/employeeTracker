@@ -1,7 +1,7 @@
 
 const inquirer = require("inquirer")
 const mysql = require("mysql2")
-const cTable = require('console.table');
+//const cTable = require('console.table');
 const { exit } = require("process");
 const { start } = require("repl");
 require('dotenv').config();

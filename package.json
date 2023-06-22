@@ -1,0 +1,26 @@
+{
+  "name": "employeetracker",
+  "version": "1.0.0",
+  "description": "1. [Project Description](#project-description)   2. [Installation Instructions](#installation-instructions)   3. [Usage Information](#usage-information)   3. [Mock Up](#mock-up)   4. [Collaborating](#collaborating)   5. [Questions](#questions)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samadams412/employeeTracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samadams412/employeeTracker/issues"
+  },
+  "homepage": "https://github.com/samadams412/employeeTracker#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "inquirer": "^8.2.4",
+    "mysql2": "^2.1.0"
+  }
+}
