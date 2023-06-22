@@ -19,14 +19,14 @@
   [Video Demo](https://watch.screencastify.com/v/Y8WfGjLCpWlaj9XJPHca)
 
     * Generated output from seeds.sql
-  ![Generated Output from seeds.sql](/Assets/test-img1.png)
+  ![Generated Output from seeds.sql](https://github.com/samadams412/employeeTracker/blob/main/Assets/test-img1.PNG?raw=true)
 
     * Generated Outfrom from selecting prompt View All Employees
-  ![Generated Outfrom from selecting prompt View All Employees](Assets/test-img2.png)
+  ![image](https://github.com/samadams412/employeeTracker/blob/main/Assets/test-img2.PNG?raw=true)
     * Generated Outfrom from selecting prompt View All Employees by Department and Role
-  ![Generated Outfrom from selecting prompt View All Employees by Department and Role](Assets/test-img3.png)
+  ![Generated Outfrom from selecting prompt View All Employees by Department and Role](https://github.com/samadams412/employeeTracker/blob/main/Assets/test-img3.PNG?raw=true)
     * Generated Outfrom from selecting prompt Add Employee and then Viewing All Employees
-  ![Generated Outfrom from selecting prompt Add Employee and then Viewing All Employees](Assets/test-img4.png)
+  ![Generated Outfrom from selecting prompt Add Employee and then Viewing All Employees](https://github.com/samadams412/employeeTracker/blob/main/Assets/test-img4.PNG?raw=true)
 
   ## Collaborating
   * For general comments, ideas, or bugs. Please report to [here](https://github.com/samadams412/employeeTracker/issues).
